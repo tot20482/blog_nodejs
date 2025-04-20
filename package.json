@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tot20482/blog_nodejs.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "tot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tot20482/blog_nodejs/issues"
+  },
+  "homepage": "https://github.com/tot20482/blog_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
